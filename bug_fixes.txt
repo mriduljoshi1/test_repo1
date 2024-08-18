@@ -1,2 +1,2 @@
 fixed bug 1 again
-found bug 2
+fixed bug 2
